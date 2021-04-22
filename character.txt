@@ -2,3 +2,5 @@ dog
 cat
 rabbit
 rat
+human
+hen
